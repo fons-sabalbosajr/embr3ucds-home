@@ -5,7 +5,7 @@ import Button from "./Button";
 
 const CardDeal = () => {
   const handleButtonClick = () => {
-    window.open("https://66541ef030bad92ab9e61793--lucent-scone-fc55bd.netlify.app/", "_blank");
+    window.open("https://embr3-ucds.netlify.app", "_blank");
   };
 
   return (
